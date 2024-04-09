@@ -45,7 +45,7 @@
    <!-- navigation section -->
    <nav class="navbar navz navbar-expand-lg fixed-top" id="scrollspynav">
       <a class="navbar-brand navimg" href="./">
-         <img class="logo1" src="assets/images/LILAWATI-66.jpg"
+         <img class="logo1" src="assets/images/logo1.jpg"
             alt="Lilawati Diagnostics | Book A Lab Test | Lilawati Diagnsotic Center in Jogeshwari (West)"
             title="Lilawati Diagnostics | Book A Lab Test">
       </a>
