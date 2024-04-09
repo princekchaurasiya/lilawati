@@ -100,7 +100,7 @@
             </div>
             <div class="col-lg-3 col-12" id="headercol2">
                <div class="form-container">
-                  <form id="formf1" action="contact.php" method="POST">
+                  <form id="formf1" action="submit_form.php" method="get">
                      <p class="text-center form-header">
                         Enquire Now
                      </p>
@@ -108,13 +108,13 @@
                         <label for="namelabel" class="formlabel">
                            Name
                         </label>
-                        <input type="text" class="form-control custfield " name="name" placeholder="Name" required>
+                        <input type="text" class="form-control custfield " name="entry.1884265043" placeholder="Name" required>
                      </div>
                      <div class="form-group">
                         <label for="emaillabel" class="formlabel">
                            Email
                         </label>
-                        <input type="email" class="form-control custfield " name="email" placeholder="Email Address"
+                        <input type="email" class="form-control custfield " name="entry.275365505" placeholder="Email Address"
                            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$">
                      </div>
                      <div class="form-group">
@@ -128,7 +128,7 @@
                               </span>
                            </div>
                            <input type="tel" placeholder="Mobile Number" class="form-control custfield custfieldphone "
-                              name="phone" pattern="[6-9]{1}[0-9]{9}" required>
+                              name="entry.1280777366" pattern="[6-9]{1}[0-9]{9}" required>
                         </div>
                      </div>
                      <div>
@@ -403,7 +403,7 @@
                            <span class="icon-close"></span>
                         </button>
                      </div>
-                     <form action="contact.php" method="POST">
+                     <form action="submit_form.php" method="get">
                         <p class="text-center form-header">
                            Enquire Now
                         </p>
@@ -411,13 +411,13 @@
                            <label for="namelabel" class="formlabel">
                               Name
                            </label>
-                           <input type="text" class="form-control custfield " name="name" placeholder="Name" required>
+                           <input type="text" class="form-control custfield " name="entry.1884265043" placeholder="Name" required>
                         </div>
                         <div class="form-group">
                            <label for="emaillabel" class="formlabel">
                               Email
                            </label>
-                           <input type="email" class="form-control custfield " name="email" placeholder="Email Address"
+                           <input type="email" class="form-control custfield " name="entry.275365505" placeholder="Email Address"
                               pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$">
                         </div>
                         <div class="form-group">
@@ -431,7 +431,7 @@
                                  </span>
                               </div>
                               <input type="tel" placeholder="Mobile Number"
-                                 class="form-control custfield custfieldphone" name="phone" pattern="[6-9]{1}[0-9]{9}"
+                                 class="form-control custfield custfieldphone" name="entry.1280777366" pattern="[6-9]{1}[0-9]{9}"
                                  required>
                            </div>
                         </div>

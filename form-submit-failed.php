@@ -80,13 +80,34 @@
    </nav>
    <!-- end of navigation section-->
    <!-- header secheader -->
-   <section class="" id="secheader">
+   <section class="" id="tyfssec1">
       <div class="container-fluid">
-         <div class="row justify-content-center">
+         <div class="row">
+            <div class="col-12 text-center p-5">
+               <p>
+                  <span class="icon-cross fsicon"></span>
+               </p>
+               <h2 class="section-subtext black-header pb-5">
+                  Form Submit Failed.
+               </h2>
 
-               <h1>Form Submission is Failed</h1>
+               <p class="pb-5">
+                  Please go to home page and try again.
+                  <br>
+                  You can get in touch with us at
+               </p>
 
+               <h3 class="pb-5">
+                  <a class="otherpagenumlink" href="tel:+91-9967754237
 
+              "><span class="icon-col"></span>+91-9967754237
+
+                  </a>
+               </h3>
+
+               <a href="./" class="btn btn-custom">GO BACK TO HOME PAGE</a>
+
+            </div>
          </div>
       </div>
    </section>

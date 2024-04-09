@@ -80,13 +80,31 @@
    </nav>
    <!-- end of navigation section-->
    <!-- header secheader -->
-   <section class="" id="secheader">
+   <section class="" id="tyfssec1">
       <div class="container-fluid">
-         <div class="row justify-content-center">
+         <div class="row">
+            <div class="col-12 text-center p-5">
+               <p>
+                  <span class="icon-tick tyicon"></span>
+               </p>
+               <h2 class="section-subtext black-header pb-5">
+                  Your Enquiry has been submitted.
+               </h2>
 
-               <h1>Thank you we will contact you soon and got your contact details</h1>
+               <p class="pb-5">
+                  Thank you for your showing your interest Toutle Space. We will call you back soon.
+               </p>
+
+               <p class="">
+                  You can get in touch with us at
+               </p>
+
+               <h3 class="pb-5">
+                  <a class="otherpagenumlink" href="tel:+91-9967754237">+91-9967754237</a>
+               </h3>
 
 
+            </div>
          </div>
       </div>
    </section>
