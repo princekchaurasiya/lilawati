@@ -575,29 +575,34 @@ if (empty($_SESSION['qstr'])) {
             </div>
          </div>
          <div class="row justify-content-center allcol">
-            <div class="col-lg-5 allcol text-center animation-element slide-right" id="officeaddr">
-               <p class="addresstext black-header">
-                  Address Of Lilawati Diagnostic Center
-               </p>
-               <p class="section-subtext">
-                  Lilawati Diagnostic Center, Shop No. 7, next to Famous Bakery M.G. School Link Road, Behram
-                  Baug,
-                  Jogeshwari West, Mumbai, Maharashtra 400102.
-                  <br>
-                  Call - <span><a class="numlink" href="tel:+91-9967754237">+91-9967754237</a></span>
-               </p>
+            <div class="col-lg-10">
+               <div class="row">
+                  <div class="col-lg-5 allcol text-center animation-element slide-right" id="officeaddr">
+                     <p class="addresstext black-header">
+                        Address Of Lilawati Diagnostic Center
+                     </p>
+                     <p class="section-subtext">
+                        Lilawati Diagnostic Center, Shop No. 7, next to Famous Bakery M.G. School Link Road, Behram
+                        Baug,
+                        Jogeshwari West, Mumbai, Maharashtra 400102.
+                        <br>
+                        Call - <span><a class="numlink" href="tel:+91-9967754237">+91-9967754237</a></span>
+                     </p>
+                  </div>
+                  <div class="col-lg-1"></div>
+                  <div class="col-lg-6 timing">
+                     <p class="addresstext black-header">
+                        <span class="icon-clock timeIcon"></span> <span class="timeIconText">Monday - Sunday 24 X
+                           7</span>
+                     </p>
+                     <p class="addresstext black-header">
+                        <span class="icon-call timeIcon"></span> <a href="tel: 9967754237" class="timeIconText">+91
+                           9967754237</a>
+                     </p>
+                  </div>
+               </div>
             </div>
-            <div class="col-lg-1"></div>
-            <div class="col-lg-6 timing">
-               <p class="addresstext black-header">
-                  <span class="icon-clock timeIcon"></span> <span class="timeIconText">Monday - Sunday 24 X
-                     7</span>
-               </p>
-               <p class="addresstext black-header">
-                  <span class="icon-call timeIcon"></span> <a href="tel: 9967754237" class="timeIconText">+91
-                     9967754237</a>
-               </p>
-            </div>
+
          </div>
          <div class="row justify-content-center">
             <div class="col-lg-10 allcol p-0">
