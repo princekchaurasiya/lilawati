@@ -88,11 +88,11 @@
                   <div class="carousel-inner">
                      <div class="carousel-item active">
                         <img class="img-fluid h-100 d-lg-block d-none w-100"
-                           src="assets/images/Lilawati-Labs-Desktop-Banner.jpg"
+                           src="assets/images/Lilawati-Labs-Desktop-Banner2.jpg"
                            title="Lilawati Diagnostics | Book A Lab Test"
                            alt="Lilawati Diagnostics | Book A Lab Test | Lilawati Diagnsotic Center in Jogeshwari (West)">
                         <img class="d-lg-none d-md-block img-fluid w-100"
-                           src="assets/images/Lilawati-Labs-Mobile-Banner.jpg" title=""
+                           src="assets/images/Lilawati-Labs-Mobile-Banner2.jpg" title=""
                            alt="Lilawati Diagnostics | Book A Lab Test | Lilawati Diagnsotic Center in Jogeshwari (West)">
                      </div>
                   </div>
