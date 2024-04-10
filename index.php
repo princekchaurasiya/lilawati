@@ -452,7 +452,7 @@ if (empty($_SESSION['qstr'])) {
                </p>
                <hr class="hrblack">
                <div class="row mt-5">
-                  <div class="col-lg-4mb-4">
+                  <div class="col-lg-4 mb-4">
                      <div class="popularTest-wrapper">
                         <div class="popularTest-card-tag">59% Off</div>
                         <h3 class="popularTest-card-title text-left mt-5">Full Body Checkup Package - Exclusive</h3>
