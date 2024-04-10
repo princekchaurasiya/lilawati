@@ -217,3 +217,25 @@ $(window).scroll(function()
   }
 });
 /* end of stickyform*/
+
+
+/* Application slider */
+$('.testOfferSlider').slick({
+	prevArrow: $('#testOfferSliderLeft'),
+	nextArrow: $('#testOfferSliderRight'),
+	infinite: true,
+	cssEase: 'linear',
+	speed: 300,
+	slidesToShow: 4,
+	slidesToScroll: 1,
+	autoplay: true,
+	autoplaySpeed: 3000,
+	responsive: [{
+		breakpoint: 992,
+		settings: {
+			slidesToShow: 1,
+			slidesToScroll: 1
+		}
+	}]
+});
+/* end of Applictaion slider */
