@@ -1402,9 +1402,59 @@ body {
   min-width: 133px;
   padding: 2rem;
   box-shadow: 0 0 10px #00000029;
-
 }
 
-.testOffer-icon{
+.testOffer-icon {
   font-size: 5rem;
+}
+
+.popularTest-wrapper {
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  box-shadow: 0 0 10px #00000029;
+}
+
+.popularTest-card-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.popularTest-card-tag {
+  background-color: #fcaa01;
+  border: none;
+  border-radius: 0 0 12px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  padding: 5px 8px;
+  position: absolute;
+  top: 25px;
+  left: 12px;
+}
+
+/* .popularTest-bulllet-point-img{
+  height: 8px;
+  left: -15px;
+  min-height: auto;
+  min-width: auto;
+  position: absolute;
+  top: 5px;
+  width: 8px
+} */
+
+.btn-style-4 {
+  margin-top: 2rem;
+  border: 2px solid #90278e;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600;
+  padding: 8px 18px;
+  position: relative;
+  transition: 0.3s ease;
+  white-space: nowrap;
+  width: 100%;
+  background-color: #90278e;
 }

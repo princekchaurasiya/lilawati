@@ -239,3 +239,8 @@ $('.testOfferSlider').slick({
 	}]
 });
 /* end of Applictaion slider */
+
+modalButton
+$('#modalButton').click(function() {
+  $('#rrmodal').modal('show');
+});
