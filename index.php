@@ -322,7 +322,7 @@ if (empty($_SESSION['qstr'])) {
                 </div>
             </div>
             <div class="row justify-content-center">
-               <div class="col-lg-1 col-2 col-auto allcol d-flex align-self-center justify-content-center">
+               <div class="col-lg-1 col-2 col-auto d-flex align-self-center justify-content-center">
                   <div id="testOfferSliderLeft" class="bannerarrowbox slick-arrow" style="">
                      <span class="icon-left-arrow" aria-hidden="true"></span>
                   </div>
@@ -395,7 +395,7 @@ if (empty($_SESSION['qstr'])) {
 
                     </div>
                 </div>
-                <div class="col-lg-1 col-2 col-auto allcol d-flex align-self-center justify-content-center order-lg-3 order-3">
+                <div class="col-lg-1 col-2 col-auto  d-flex align-self-center justify-content-center order-lg-3 order-3">
                   <div id="testOfferSliderRight" class="bannerarrowbox slick-arrow" style="">
                      <span class="icon-right-arrow" aria-hidden="true"></span>
                   </div>
