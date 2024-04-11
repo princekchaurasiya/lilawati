@@ -454,11 +454,11 @@ if (empty($_SESSION['qstr'])) {
                <div class="row mt-5">
                   <div class="col-lg-4 mb-4">
                      <div class="popularTest-wrapper">
-                        <div class="popularTest-card-tag">59% Off</div>
-                        <h3 class="popularTest-card-title text-left mt-5">Full Body Checkup Package - Exclusive</h3>
-                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>9 Parameters</b>
+                        <div class="popularTest-card-tag">79% Off</div>
+                        <h3 class="popularTest-card-title text-left mt-5">Full Body Checkup </h3>
+                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>11 Parameters</b>
                         </p>
-                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
+                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹1399.00</span></div>
                         <div class="justify-content-center pt-2">
                            <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
@@ -467,11 +467,11 @@ if (empty($_SESSION['qstr'])) {
                   </div>
                   <div class="col-lg-4 mb-4">
                      <div class="popularTest-wrapper">
-                        <div class="popularTest-card-tag">59% Off</div>
-                        <h3 class="popularTest-card-title text-left mt-5">Full Body Checkup Package - Exclusive</h3>
-                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>9 Parameters</b>
+                        <div class="popularTest-card-tag">52% Off</div>
+                        <h3 class="popularTest-card-title text-left mt-5">Fever A Profile</h3>
+                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>6 Parameters</b>
                         </p>
-                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
+                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹600.00</span></div>
                         <div class="justify-content-center pt-2">
                            <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
@@ -480,11 +480,11 @@ if (empty($_SESSION['qstr'])) {
                   </div>
                   <div class="col-lg-4 mb-4">
                      <div class="popularTest-wrapper">
-                        <div class="popularTest-card-tag">59% Off</div>
-                        <h3 class="popularTest-card-title text-left mt-5">Full Body Checkup Package - Exclusive</h3>
-                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>9 Parameters</b>
+                        <div class="popularTest-card-tag">56% Off</div>
+                        <h3 class="popularTest-card-title text-left mt-5">Fever B Profile</h3>
+                        <p class="mb-2 text-left"><span class="text-base fw-700">Includes: </span><b>8 Parameters</b>
                         </p>
-                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
+                        <div class="text-left"><span class="fw-700" style="font-size: 18px">₹1000.00</span></div>
                         <div class="justify-content-center pt-2">
                            <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
