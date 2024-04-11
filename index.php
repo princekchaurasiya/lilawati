@@ -460,7 +460,7 @@ if (empty($_SESSION['qstr'])) {
                         </p>
                         <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
                         <div class="justify-content-center pt-2">
-                           <button type="button" class="btn-style-4 btn-fill"
+                           <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
 
                      </div>
@@ -473,7 +473,7 @@ if (empty($_SESSION['qstr'])) {
                         </p>
                         <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
                         <div class="justify-content-center pt-2">
-                           <button type="button" class="btn-style-4 btn-fill"
+                           <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
 
                      </div>
@@ -486,7 +486,7 @@ if (empty($_SESSION['qstr'])) {
                         </p>
                         <div class="text-left"><span class="fw-700" style="font-size: 18px">₹299.00</span></div>
                         <div class="justify-content-center pt-2">
-                           <button type="button" class="btn-style-4 btn-fill"
+                           <button type="button" class="btn-style-4 btn-fill modalButton"
                               tabindex="0" id="modalButton">Book Now</button></div>
 
                      </div>
