@@ -110,7 +110,7 @@ if (empty($_SESSION['qstr'])) {
                <div class="form-container">
                   <form id="formf1" action="submit_form.php" method="get">
                      <p class="text-center form-header">
-                        Enquire Now
+                        Get a Call Back
                      </p>
                      <div class="form-group">
                         <label for="namelabel" class="formlabel">
@@ -146,7 +146,7 @@ if (empty($_SESSION['qstr'])) {
                      <div class="form-group frmsubmit">
                         <div class="text-center">
                            <button type="submit" id="submitf1" class="btn btn-custom">
-                              Submit
+                              Get a Call Back
                            </button>
                         </div>
                      </div>
@@ -622,7 +622,7 @@ if (empty($_SESSION['qstr'])) {
                      </div>
                      <form action="submit_form.php" method="get">
                         <p class="text-center form-header">
-                           Enquire Now
+                           Get a Call Back
                         </p>
                         <div class="form-group">
                            <label for="namelabel" class="formlabel">
@@ -659,7 +659,7 @@ if (empty($_SESSION['qstr'])) {
                         <div class="form-group frmsubmit">
                            <div class="text-center">
                               <button type="submit" class="btn btn-custom">
-                                 Submit
+                                 Get a Call Back
                               </button>
                            </div>
                         </div>
@@ -706,7 +706,7 @@ if (empty($_SESSION['qstr'])) {
                CALL NOW
             </a>
             <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#rrmodal">
-               ENQUIRE NOW
+               Get a Call Back
             </a>
          </div>
       </div>

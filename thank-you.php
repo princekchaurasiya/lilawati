@@ -141,7 +141,7 @@
                CALL NOW
             </a>
             <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#rrmodal">
-               ENQUIRE NOW
+               Get a Call Back
             </a>
          </div>
       </div>
